@@ -1,1 +1,13 @@
-print("THIS SHIT WORKS")
+def main():
+    print("hello world")
+
+
+
+
+
+
+
+
+
+
+main()
